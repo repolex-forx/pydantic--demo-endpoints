@@ -1,0 +1,14 @@
+{
+  "@context": "https://repolex.ai/ontology/jsonld-context/repolex-context.jsonld",
+  "@id": "https://repolex.ai/r/pydantic/demo-endpoints",
+  "@type": "gh:Repository",
+  "gh:name": "demo-endpoints",
+  "gh:owner": "pydantic",
+  "repolex:trackedCommit": [
+    {
+      "@id": "https://repolex.ai/r/pydantic/demo-endpoints/commit/ff1f698deecdf6b3bbdb9e0b994753615fb03c48",
+      "git:hexsha": "ff1f698deecdf6b3bbdb9e0b994753615fb03c48",
+      "repolex:parseStatus": "metadata_complete"
+    }
+  ]
+}

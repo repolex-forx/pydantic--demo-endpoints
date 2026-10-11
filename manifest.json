@@ -1,0 +1,27 @@
+{
+  "manifest_version": "1.0",
+  "org": "pydantic",
+  "repo": "demo-endpoints",
+  "versions": [
+    {
+      "commit": "ff1f698deecdf6b3bbdb9e0b994753615fb03c48",
+      "parsed_at": "2026-10-11T20:34:53.625378+00:00",
+      "filetree": "filetree/ff1f698deecdf6b3bbdb9e0b994753615fb03c48.nq.gz",
+      "blobs": [
+        "blob/244894dd16cb9d3f99c619a10ebdd1df1cd60e18.nq.gz",
+        "blob/edac8a05c831c14c4a4f96a5f59c320e76da5643.nq.gz",
+        "blob/2276dd58b2c051579a0059d144cff3cad9da33b3.nq.gz",
+        "blob/a4c05c4f5369d3332cd195660f5f57fc40a8e50a.nq.gz",
+        "blob/cf93181f8489140b420080f7233ada601161fc99.nq.gz",
+        "blob/b507b5cb60bc09a9788c309c187acc1d4e28e45d.nq.gz",
+        "blob/defb5b6acd93ce3ceaee05372a071fd3e26ef32e.nq.gz",
+        "blob/f326a58539328611a4f62cd72b1f1d29f6f3ad77.nq.gz",
+        "blob/5c2d8056ca0acfa7e04e9c0638b621b6de3e0c92.nq.gz",
+        "blob/6e6c941da68a6232a3c3ab05b6beeda10501e9c8.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz"
+}
